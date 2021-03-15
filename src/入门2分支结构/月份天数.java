@@ -1,7 +1,6 @@
 package 入门2分支结构;
 
-import java.util.HashMap;
-import java.util.Map;
+
 import java.util.Scanner;
 
 //P5716 
