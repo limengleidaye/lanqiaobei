@@ -17,7 +17,8 @@ public class 字符串展开 {
 			if (str[i] == '-') {
 				if (str[i + 1] - str[i - 1] == 1) {
 					continue;
-				} else if (str[i + 1] - str[i - 1] <= 0) {
+				} else if (str[i + 1] - str[i - 1] <= 0
+						|| ((str[i - 1] <= '9' && str[i - 1] >= '0') && (str[i + 1] <= 'z' && str[i + 1] >= 'a'))) {
 					System.out.print('-');
 				} else {
 					if (p1 == 1) {
@@ -36,12 +37,14 @@ public class 字符串展开 {
 						if (p3 == 1) {
 							for (int j = 1; j < str[i + 1] - str[i - 1]; j++) {
 								for (int k = 0; k < p2; k++)
-									System.out.print((char) (str[i - 1]  + j-32));
+									System.out.print(str[i - 1] + j > 'a' ? (char) (str[i - 1] + j - 32)
+											: (char) (str[i - 1] + j));
 							}
 						} else {
 							for (int j = 1; j < str[i + 1] - str[i - 1]; j++) {
 								for (int k = 0; k < p2; k++)
-									System.out.print((char) (str[i + 1] - j-32));
+									System.out.print(str[i + 1] - j > 'a' ? (char) (str[i + 1] - j - 32)
+											: (char) (str[i + 1] - j));
 							}
 						}
 					} else {
