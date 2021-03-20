@@ -25,5 +25,4 @@ public class »¶ÀÖµÄÌø {
 		} else
 			System.out.println("Not jolly");
 	}
-
 }
