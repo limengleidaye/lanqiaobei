@@ -1,4 +1,4 @@
-package 暴力枚举;
+package 算法1_3暴力枚举;
 
 import java.util.Scanner;
 /*

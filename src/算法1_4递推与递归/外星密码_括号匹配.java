@@ -1,4 +1,4 @@
-package 递推与递归;
+package 算法1_4递推与递归;
 
 import java.util.Scanner;
 import java.util.Stack;
