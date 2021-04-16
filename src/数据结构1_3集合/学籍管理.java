@@ -1,4 +1,4 @@
-package 集合;
+package 数据结构1_3集合;
 
 import java.util.HashMap;
 import java.util.Scanner;
