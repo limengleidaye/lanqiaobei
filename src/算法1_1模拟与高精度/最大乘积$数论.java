@@ -15,7 +15,7 @@ Step3:
 遍历2~x,若不为no就输出，然后换行输出ans
  */
 //P1249 
-public class 最大乘积_数论 {
+public class 最大乘积$数论 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

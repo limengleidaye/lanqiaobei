@@ -3,7 +3,7 @@ package 算法1_1模拟与高精度;
 import java.util.Scanner;
 
 //P1518 
-public class 两只塔姆沃斯牛_移动与转弯 {
+public class 两只塔姆沃斯牛$移动与转弯 {
 	public boolean bondary() {
 		return true;
 	}

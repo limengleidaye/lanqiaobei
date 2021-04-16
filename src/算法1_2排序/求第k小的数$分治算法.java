@@ -3,7 +3,7 @@ package 算法1_2排序;
 import java.util.Scanner;
 
 //P1923 
-public class 求第k小的数_分治算法 {
+public class 求第k小的数$分治算法 {
 	static int[] ai;
 
 	public static int quickSort(int left, int right) {

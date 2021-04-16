@@ -3,7 +3,7 @@ package 入门1顺序结构;
 import java.util.Scanner;
 
 //P2181 
-public class 对角线_ {
+public class 对角线$ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

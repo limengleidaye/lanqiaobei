@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 //P1928 
-public class ÍâĞÇÃÜÂë_À¨ºÅÆ¥Åä {
+public class ÍâĞÇÃÜÂë$$$À¨ºÅÆ¥Åä {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

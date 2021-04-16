@@ -3,7 +3,7 @@ package À„∑®1_4µ›Õ∆”Îµ›πÈ;
 import java.util.Scanner;
 
 //P1044 
-public class ’ª_µ›Õ∆ {
+public class ’ª$$$µ›Õ∆ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

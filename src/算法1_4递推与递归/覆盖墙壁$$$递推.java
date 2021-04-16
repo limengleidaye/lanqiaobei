@@ -3,7 +3,7 @@ package Ëã·¨1_4µÝÍÆÓëµÝ¹é;
 import java.util.Scanner;
 
 //P1990 
-public class ¸²¸ÇÇ½±Ú_µÝÍÆ {
+public class ¸²¸ÇÇ½±Ú$$$µÝÍÆ {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int mod = 10000;

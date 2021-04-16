@@ -3,7 +3,7 @@ package 算法1_3暴力枚举;
 import java.util.Scanner;
 
 //P1618 
-public class 三连击_深搜 {
+public class 三连击$深搜 {
 	static int[] x = new int[9];
 	static boolean[] used = new boolean[9];
 	static int a;

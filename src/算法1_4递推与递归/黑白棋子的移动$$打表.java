@@ -3,7 +3,7 @@ package 算法1_4递推与递归;
 import java.util.Scanner;
 
 //P1259 
-public class 黑白棋子的移动_打表 {
+public class 黑白棋子的移动$$打表 {
 	static char[] ch;
 
 	public static void swap(int start, int end) {

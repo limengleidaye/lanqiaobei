@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //P4924 
 
-public class 魔法少女小Scarlet_矩阵旋转 {
+public class 魔法少女小Scarlet$矩阵旋转 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

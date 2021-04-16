@@ -3,7 +3,7 @@ package 算法1_4递推与递归;
 import java.util.Scanner;
 
 //P1010 
-public class 幂次方_二进制表示 {
+public class 幂次方$$二进制表示 {
 	static int n;
 
 	public static void powerPrint(int i) {

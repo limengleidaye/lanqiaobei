@@ -19,7 +19,7 @@ import java.util.Scanner;
 3.同理，求和即可.
  */
 //P2241 
-public class 统计方形_矩形个数 {
+public class 统计方形$矩形个数 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
